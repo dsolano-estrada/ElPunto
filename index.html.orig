@@ -1,0 +1,123 @@
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>KUMASoft</title>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+  <!-- KUMA Inicio de linea para evitar del ZOOM -->
+    <meta name="viewport" content="width-device-width, user-scalabel=no, initial-scale=1.0 maximum-scale-1.0, minimum-scale=1.0">
+  <!-- KUMA Fin de linea para evitar del ZOOM -->
+  </head>
+  <body>
+  <!-- KUMA Inicio de class "contenedor" para afectar toda la pagina -->
+  <div class="contenedor">
+  
+  <div id="wrapper">
+      <div id="logo">
+          <h1>KUMASoft</h1>
+          <p><em>Nuestra meta, su satisfacción<a href="http://www.freecsstemplates.org/"></a></em></p>
+      </div>
+      <hr />
+      <!-- end #logo -->
+      <div id="header">
+          <div id="menu">
+              <ul>
+                  <li class="http://kumasoft.no-ip.org"><a href="#" class="first">Home</a></li>
+              </ul>
+          </div>
+          <!-- end #menu -->
+          <div id="search">
+              <form method="get" action="">
+                  <fieldset>
+                  <input type="text" name="s" id="search-text" size="15" />
+                  <input type="submit" id="search-submit" value="GO" />
+                  </fieldset>
+              </form>
+          </div>
+          <!-- end #search -->
+      </div>
+      <!-- end #header -->
+      <!-- end #header-wrapper -->
+      <div id="page">
+      <div id="page-bgtop">
+      
+      <div id="sidebar">
+              <ul>
+                  <li>
+                      <h2>Noticias</h2>
+                      <p>Haz click en las siguientes plantillas y solita tu pagina web aqui mismo en este servidor.</p>
+                  </li>
+                  <li>
+                      <h2>Plantillas</h2>
+                      <ul>
+                          <li><a href="plantillas/temp184/11374/colour_green/index.html">Plantilla 184</a></li>
+                          <li><a href="plantillas/temp185/11367/xhtml9/index.html">Plantilla 185</a></li>
+                          <li><a href="plantillas/temp188/11288/simple_slide/index.html">Plantilla 188</a></li>
+                          <li><a href="plantillas/temp194/11204/metamorph_bubbleblue/index.html">Plantilla 194</a></li>
+                          <li><a href="plantillas/temp204/10893/ftdLightBlue/index.html">Plantilla 204</a></li>
+                          <li><a href="plantillas/temp205/10880/newgreys/index.html">Plantilla 205</a></li>
+                          <li><a href="plantillas/temp207/10858/xhtml5/index.html">Plantilla 207</a></li>
+                          <li><a href="plantillas/temp208/10843/ftdLight/index.html">Plantilla 208</a></li>
+                          <li><a href="plantillas/temp211/10765/metamorph_sunrising/index.html">Plantilla 211</a></li>
+                          <li><a href="plantillas/temp212/10742/metamorph_christmascoming/index.html">Plantilla 212</a></li>
+                          <li><a href="plantillas/temp213/10731/Red Flower/index.html">Plantilla 213</a></li>
+                          <li><a href="plantillas/temp214/10726/metamorph_waterplanet/index.html">Plantilla 214</a></li>
+
+                          <li><a href="plantillas/temp215/10710/simplestyle_2/index.html">Plantilla 215</a></li>
+                          <li><a href="plantillas/temp216/10709/simplestyle_1/index.html">Plantilla 216</a></li>
+                          <li><a href="plantillas/temp217/10648/metamorph_sunbeam/index.html">Plantilla 217</a></li>
+                          <li><a href="plantillas/temp218/10612/metamorph_fire/index.html">Plantilla 218</a></li>
+                          <li><a href="plantillas/temp219/10484/nightbeach/index.html">Plantilla 219</a></li>
+                          <li><a href="plantillas/temp220/10480/metamorph_citylights/index.html">Plantilla 220</a></li>
+                          <li><a href="plantillas/temp221/10452/metamorph_beauty/index.html">Plantilla 221</a></li>
+                          <li><a href="plantillas/temp222/10386/metamorph_ball/index.html">Plantilla 222</a></li>
+                          <li><a href="plantillas/temp223/10331/metamorph_cloudyday/index.html">Plantilla 223</a></li>
+                          <li><a href="plantillas/temp224/10267/metamorph_lighting/index.html">Plantilla 224</a></li>
+                          
+                      </ul>
+                  </li>
+              </ul>
+  </div>
+          <!-- end #sidebar -->
+      
+          <div id="content">
+              <div class="post">
+                  <h2 class="title"><a href="#">Bienvenido</a>				</h2>
+                  <div class="entry">
+                 
+
+                  <p>En KumaSoft nuestra meta es su satisfacción.</p>
+                  <p>Somos una empresa 100% mexicana donde lejos de buscar hacer un negocio, deseamos ayudar a que ud cumpla con las espectativas de crecimiento del suyo.</p>
+                  <p>Pongase en contacto con nosotros : dsolano.estrada@gmail.com</p>
+                  <p>Para mas información entre a nuestra pagina de servicio: </p>
+                  <p><a href="http://dsolanoestrada3.wix.com/mysite">http://dsolanoestrada3.wix.com/mysite</a></p>
+                  <p>Descarga nuetra APP "El Punto" en la siguiente liga: </p><li><a href="software/ElPunto.apk">El Punto</a></li> 
+                  <p>Descarga nuetra APP "Kuma Taxi" en la siguiente liga: </p><li><a href="software/Kuma_Taxi.apk">Kuma Taxi</a></li>
+                 </div>
+              </div>
+              <div class="post">
+                <h2 class="title"><a href="#">mensaje del día</a></h2>
+                  <div class="entry">
+                    <p>Procura equivocarte, por que el que no se equivoca no aprende y el que no aprende no avanza.</p>
+                    <p>Anonimo.</p>
+                </div>
+              </div>
+  </div>
+          <!-- end #content -->
+          
+          <div style="clear: both;">&nbsp;</div>
+      </div>
+      </div>
+      <!-- end #page -->
+      <div id="footer-bgcontent">
+      <div id="footer">
+          <p>Copyright  2016 KumaSoft.no-ip.org. Todos lo derechos reservados. Plantillas cortesia de: <a href="http://www.rickyswebtemplates.com/">Ricky's Free web templates</a>.</p>
+      </div>
+      </div>
+      <!-- end #footer -->
+  </div>
+  </div>
+    </body>
+  </html>
